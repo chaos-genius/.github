@@ -5,6 +5,6 @@
 
 We are building Chaos Genius to manage data chaos in organizations.
 
-Chaos Genius is an open-source analytics engine for applying AI and ML to monitor and analyse high-dimensionality business & system metrics at scale.
+Chaos Genius is an open-source, ML powered analytics engine for outlier detection and root cause analysis. Chaos Genius can be used to monitor and analyse high dimensionality business, data and system metrics at scale.
 
 Join us on our [Community Slack](https://join.slack.com/t/chaosgenius/shared_invite/zt-140042uac-rrm~xbx9o_aydi6PTmp_Mg) and say Hi 👋!
