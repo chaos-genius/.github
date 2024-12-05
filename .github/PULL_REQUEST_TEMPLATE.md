@@ -30,8 +30,9 @@ Please delete options that are not relevant.
 
 ### Checklist
 - [ ] I have tested code locally.
-- [ ] I have communicated the database migration to the deployment team
-- [ ] I have mentioned the config/ENV changes here and to deployment team
+- [ ] I have applied the PR Labels.
+- [ ] I have communicated the database migration to the deployment team.
+- [ ] I have mentioned the config/ENV changes here and to deployment team.
 - [ ] I have checked for potential breaking changes.
 
 ### Screenshot (if applicable)
